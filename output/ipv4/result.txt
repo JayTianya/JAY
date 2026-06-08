@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-08 07:14:25,http://198.204.228.26/live/cctv5p.m3u8
+2026-06-08 22:17:05,http://198.204.228.26/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
@@ -22,19 +22,21 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=cf99265df4dc15e266326666
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://fuxin.yunjifei.top:999/tsfile/live/0125_1.m3u8?key=txiptv
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
-湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=763a3d2b96259ea95b79897ae6de248d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=763a3d2b96259ea95b79897ae6de248d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=e078747837ff9cad6d2a314ebeffa51c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
-北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8
+北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
-河北卫视,http://fuxin.yunjifei.top:999/tsfile/live/0117_1.m3u8?key=txiptv
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
@@ -43,8 +45,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 云南卫视,http://198.204.228.26/live/ynwshd.m3u8
-云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
+云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 
 ☘️浙江频道,#genre#
 湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
